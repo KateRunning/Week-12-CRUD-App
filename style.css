@@ -1,0 +1,39 @@
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.date {
+    padding: 2em;
+}
+
+.btn-light {
+    margin-left: 5em;
+    background-color: #9588DF;
+    color: white;
+}
+
+.btn-light:hover {
+    margin-left: 5em;
+    background-color: #0DCAF0;
+    color: white;
+}
+
+.btn-info {
+    color: white;
+}
+
+.btn-dark {
+    margin-bottom: 1em;
+}
+
+.btn-dark:hover {
+    margin-bottom: 1em;
+    background-color: rgb(255, 223, 62);
+    color: black;
+}
+
+.form-control {
+    margin: 1em;
+}
+
